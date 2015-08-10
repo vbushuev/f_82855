@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: bin/sketchtool 1.4 (305) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with bin/sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Главная-страница" sketch:type="MSArtboardGroup" transform="translate(-188.000000, -51.000000)">
+            <g id="logo" sketch:type="MSLayerGroup" transform="translate(149.000000, 50.200000)">
+                <g transform="translate(38.000000, 0.203739)" sketch:type="MSShapeGroup">
+                    <g id="Triangle-1-Copy-10-+-Triangle-1-Copy-13" transform="translate(23.414634, 46.829268)">
+                        <path d="M0.975609756,12.6829268 L12.6829268,24.3902439 L12.6829268,0.975609756 L0.975609756,12.6829268 L0.975609756,12.6829268 Z" id="Triangle-1-Copy-10" fill="#FF9456"></path>
+                        <path d="M24.3902439,12.6829268 L12.6829268,24.3902439 L12.6829268,0.975609756 L24.3902439,12.6829268 L24.3902439,12.6829268 Z" id="Triangle-1-Copy-13" fill="#FDCD2D"></path>
+                    </g>
+                    <g id="Triangle-1-Copy-12-+-Triangle-1-Copy-15" transform="translate(46.829268, 23.414634)">
+                        <path d="M0.975609756,12.6829268 L12.6829268,24.3902439 L12.6829268,0.975609756 L0.975609756,12.6829268 L0.975609756,12.6829268 Z" id="Triangle-1-Copy-12" fill="#4FFFFF"></path>
+                        <path d="M24.3902439,12.6829268 L12.6829268,24.3902439 L12.6829268,0.975609756 L24.3902439,12.6829268 L24.3902439,12.6829268 Z" id="Triangle-1-Copy-15" fill="#30DDF9"></path>
+                    </g>
+                    <g id="Triangle-1-Copy-8-+-Triangle-1-Copy-14" transform="translate(23.414634, 23.414634)">
+                        <path d="M0.975609756,12.6829268 L12.6829268,24.3902439 L12.6829268,0.975609756 L0.975609756,12.6829268 L0.975609756,12.6829268 Z" id="Triangle-1-Copy-8" fill="#FF59AD"></path>
+                        <path d="M24.3902439,12.6829268 L12.6829268,24.3902439 L12.6829268,0.975609756 L24.3902439,12.6829268 L24.3902439,12.6829268 Z" id="Triangle-1-Copy-14" fill="#FF4D4D"></path>
+                    </g>
+                    <g id="Triangle-1-Copy-11-+-Triangle-1-Copy-16" transform="translate(0.000000, 23.414634)">
+                        <path d="M0.975609756,12.6829268 L12.6829268,24.3902439 L12.6829268,0.975609756 L0.975609756,12.6829268 L0.975609756,12.6829268 Z" id="Triangle-1-Copy-11" fill="#0382FC"></path>
+                        <path d="M24.3902439,12.6829268 L12.6829268,24.3902439 L12.6829268,0.975609756 L24.3902439,12.6829268 L24.3902439,12.6829268 Z" id="Triangle-1-Copy-16" fill="#00EC24"></path>
+                    </g>
+                    <g id="Triangle-1-Copy-9-+-Triangle-1-Copy-17" transform="translate(23.414634, 0.000000)">
+                        <path d="M0.975609756,12.6829268 L12.6829268,24.3902439 L12.6829268,0.975609756 L0.975609756,12.6829268 L0.975609756,12.6829268 Z" id="Triangle-1-Copy-9" fill="#896DFF"></path>
+                        <path d="M24.3902439,12.6829268 L12.6829268,24.3902439 L12.6829268,0.975609756 L24.3902439,12.6829268 L24.3902439,12.6829268 Z" id="Triangle-1-Copy-17" fill="#CA5FFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="61px" viewBox="0 0 80 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: bin/sketchtool 1.4 (305) - http://www.bohemiancoding.com/sketch -->
+    <title>generator slogans</title>
+    <desc>Created with bin/sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Главная-страница" sketch:type="MSArtboardGroup" transform="translate(-683.000000, -730.000000)">
+            <g id="генераторы" sketch:type="MSLayerGroup" transform="translate(0.000000, 282.000000)">
+                <g id="слоганы" transform="translate(683.000000, 447.250000)" sketch:type="MSShapeGroup">
+                    <g id="generator-slogans" transform="translate(0.000000, 0.772727)">
+                        <path d="M20,40 L46.3636364,40 L46.3636364,51.3636364 C46.3636364,57.6395994 41.6046481,60.9221392 35.7355145,58.6959162 L26.5507275,55.2120314 C22.9328606,53.8397371 20,49.5975309 20,45.7306903 L20,40 Z" id="Rectangle-47" stroke="#B0A6BF" stroke-width="4"></path>
+                        <path d="M6.36363636,21.8181818 L73.6363636,1.81818182 L73.6363636,58.1818182 L6.36363636,38.1818182 L6.36363636,21.8181818 Z" id="Rectangle-44" fill="#0382FC"></path>
+                        <path d="M9.09090909,22.7272727 L70.9090909,5.45454545 L70.9090909,25.4545455 L9.09090909,25.4545455 L9.09090909,22.7272727 Z" id="Rectangle-48" opacity="0.3" fill="#FFFFFF"></path>
+                        <rect id="Rectangle-45" fill="#006CD3" x="73.6363636" y="0" width="6.36363636" height="60"></rect>
+                        <rect id="Rectangle-45-Copy" fill="#006CD3" x="0" y="20" width="6.36363636" height="20"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

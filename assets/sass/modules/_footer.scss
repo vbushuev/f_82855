@@ -1,0 +1,106 @@
+.footer {
+	padding-bottom: 35px;
+	&__block {
+		&-1 {
+			width: 230px;
+			float: left;
+			margin-right: 30px;
+			padding-top: 36px;
+			font-weight: 300;
+			font-size: 14px;
+			line-height: 25px;
+			a {
+				color: #006cd3;
+			}
+		}
+		&-2 {
+			width: 155px;
+			float: left;
+			margin-right: 15px;
+			padding-top: 36px;
+			font-weight: 300;
+			font-size: 14px;
+			line-height: 25px;
+			a {
+				color: #006cd3;
+				text-decoration: none;
+			}
+		}
+		&-3 {
+			width: 155px;
+			float: left;
+			margin-right: 15px;
+			padding-top: 36px;
+			font-weight: 300;
+			font-size: 14px;
+			line-height: 25px;
+			a {
+				color: #006cd3;
+				text-decoration: none;
+			}
+		}
+		&-4 {
+			width: 155px;
+			float: left;
+			margin-right: 15px;
+			padding-top: 36px;
+			font-weight: 300;
+			font-size: 14px;
+			line-height: 25px;
+			a {
+				color: #006cd3;
+				text-decoration: none;
+			}
+		}
+		&-5 {
+			width: 155px;
+			float: left;
+			margin-right: 0px;
+			padding-top: 36px;
+			font-weight: 300;
+			font-size: 14px;
+			line-height: 25px;
+			a {
+				color: #006cd3;
+				text-decoration: none;
+			}
+		}
+		&-mobile {
+			display: none;
+			width: 157px;
+			float: left;
+			margin-right: 109px;
+			padding-top: 36px;
+			font-weight: 300;
+			font-size: 14px;
+			line-height: 25px;
+			a {
+				color: #006cd3;
+				text-decoration: none;
+			}
+			&.last {
+				margin-right: 0;
+			}
+		}
+		&-tablet {
+			display: none;
+			width: 157px;
+			float: left;
+			margin-right: 49px;
+			padding-top: 36px;
+			font-weight: 300;
+			font-size: 14px;
+			line-height: 25px;
+			a {
+				color: #006cd3;
+				text-decoration: none;
+			}
+			&.last {
+				margin-right: 0;
+			}
+		}
+	}
+	&__social {
+		padding-top: 10px;
+	}
+}

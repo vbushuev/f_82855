@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="70px" height="71px" viewBox="0 0 70 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: bin/sketchtool 1.4 (305) - http://www.bohemiancoding.com/sketch -->
+    <title>barcode generator</title>
+    <desc>Created with bin/sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Главная-страница" sketch:type="MSArtboardGroup" transform="translate(-260.000000, -728.000000)">
+            <g id="генераторы" sketch:type="MSLayerGroup" transform="translate(0.000000, 282.000000)">
+                <g id="штрих-код" transform="translate(236.000000, 445.250000)" sketch:type="MSShapeGroup">
+                    <g id="barcode-generator" transform="translate(24.000000, 1.000000)">
+                        <rect id="Rectangle-24-Copy" fill="#A8A2CE" x="19.3421053" y="0" width="8.28947368" height="42.3684211"></rect>
+                        <rect id="Rectangle-24-Copy-2" fill="#FF9457" x="30.3947368" y="0" width="4.60526316" height="42.3684211"></rect>
+                        <rect id="Rectangle-24-Copy-3" fill="#A8A2CE" x="38.6842105" y="0" width="11.9736842" height="42.3684211"></rect>
+                        <rect id="Rectangle-24-Copy-4" fill="#A8A2CE" x="53.4210526" y="0" width="4.60526316" height="42.3684211"></rect>
+                        <rect id="Rectangle-22" stroke="#FF9457" stroke-width="5" x="0" y="19.3421053" width="70" height="50.6578947" rx="10"></rect>
+                        <rect id="Rectangle-22-Copy" opacity="0.3" fill="#FF9457" x="4.56914345" y="23.9473684" width="60.8255928" height="41.4473684" rx="10"></rect>
+                        <rect id="Rectangle-24" fill="#A8A2CE" x="11.9736842" y="0" width="3.68421053" height="42.3684211"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
